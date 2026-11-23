@@ -1,0 +1,21 @@
+" Minimal vimrc — backed up from dev machine
+set nocompatible
+set encoding=utf-8
+set number
+set ruler
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set autoindent
+set smartindent
+set hlsearch
+set incsearch
+set ignorecase
+set smartcase
+set showmatch
+set backspace=indent,eol,start
+set undolevels=500
+set wildmenu
+set cmdheight=1
+syntax on
+inoremap jj <Esc>
